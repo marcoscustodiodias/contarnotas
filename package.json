@@ -1,0 +1,16 @@
+{
+  "name": "contarnotas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contarnotas.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Dias <marcosdias.pvai@gmail.com>",
+  "license": "MIT"
+}
